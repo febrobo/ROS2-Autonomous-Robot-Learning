@@ -1,4 +1,4 @@
-# Project 1: Your First Node — Hello Robotics
+# Project 1: First Node — Hello Robotics
 
 ## Overview
 
