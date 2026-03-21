@@ -1,0 +1,41 @@
+[0.226s] Invoking command in '/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/src/my_robot_pkg': CONDA_PROMPT_MODIFIER=(isaaclab_2) PYTHONPATH=/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build install --record /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/install.log --single-version-externally-managed install_data
+[0.309s] running egg_info
+[0.309s] creating ../../build/my_robot_pkg/my_robot_pkg.egg-info
+[0.309s] writing ../../build/my_robot_pkg/my_robot_pkg.egg-info/PKG-INFO
+[0.310s] writing dependency_links to ../../build/my_robot_pkg/my_robot_pkg.egg-info/dependency_links.txt
+[0.310s] writing entry points to ../../build/my_robot_pkg/my_robot_pkg.egg-info/entry_points.txt
+[0.310s] writing requirements to ../../build/my_robot_pkg/my_robot_pkg.egg-info/requires.txt
+[0.310s] writing top-level names to ../../build/my_robot_pkg/my_robot_pkg.egg-info/top_level.txt
+[0.310s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[0.310s] reading manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[0.311s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[0.311s] running build
+[0.311s] running build_py
+[0.311s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build
+[0.311s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib
+[0.311s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg
+[0.311s] copying my_robot_pkg/__init__.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg
+[0.311s] copying my_robot_pkg/gps_publisher.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg
+[0.311s] copying my_robot_pkg/hello_node.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg
+[0.311s] running install
+[0.311s] running install_lib
+[0.311s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[0.311s] copying /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg/__init__.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[0.311s] copying /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg/gps_publisher.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[0.311s] copying /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build/lib/my_robot_pkg/hello_node.py -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[0.312s] byte-compiling /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/__init__.py to __init__.cpython-310.pyc
+[0.312s] byte-compiling /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/gps_publisher.py to gps_publisher.cpython-310.pyc
+[0.312s] byte-compiling /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/hello_node.py to hello_node.cpython-310.pyc
+[0.312s] running install_data
+[0.312s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/share/ament_index
+[0.312s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/share/ament_index/resource_index
+[0.312s] creating /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/share/ament_index/resource_index/packages
+[0.312s] copying resource/my_robot_pkg -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/share/ament_index/resource_index/packages
+[0.312s] copying package.xml -> /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/share/my_robot_pkg
+[0.312s] running install_egg_info
+[0.313s] Copying ../../build/my_robot_pkg/my_robot_pkg.egg-info to /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg-0.0.0-py3.10.egg-info
+[0.313s] running install_scripts
+[0.325s] Installing gps_publisher script to /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/my_robot_pkg
+[0.325s] Installing hello_node script to /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/my_robot_pkg
+[0.325s] writing list of installed files to '/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/install.log'
+[0.335s] Invoked command in '/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/src/my_robot_pkg' returned '0': CONDA_PROMPT_MODIFIER=(isaaclab_2) PYTHONPATH=/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/install/my_robot_pkg/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/build install --record /home/febin/Desktop/ROS2-Autonomous-Robot-Learning/Project_1_Hello_Node/build/my_robot_pkg/install.log --single-version-externally-managed install_data

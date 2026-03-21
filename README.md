@@ -187,7 +187,7 @@ rviz2                                   # Launch RViz2 visualizer
 | Project | Title | Status | Date | Notes |
 |---------|-------|--------|------|-------|
 | 1 | Hello Node | ✅ Complete | Mar 7, 2026 | Basic node with timer |
-| 2 | Publisher | ⏳ Planned | - | GPS sensor simulation |
+| 2 | Publisher | ✅ Complete | Mar 21, 2026 | GPS publisher node, 10Hz, PointStamped msg |
 | 3 | Subscriber | ⏳ Planned | - | Data processing |
 | 4 | Custom Messages | ⏳ Planned | - | Robot state message |
 | 5 | Services | ⏳ Planned | - | Calibration service |
@@ -260,7 +260,7 @@ MIT License — feel free to learn from these projects!
 
 ## Next Steps
 
-I'm currently on **Project 1**. Next is **Project 2: Publisher**, where I'll create a node that streams GPS sensor data continuously. That's when multi-node systems start getting interesting!
+I'm currently on **Project 2**. Next is **Project 3: Subscriber**, where I'll build a node that listens to the GPS data and computes statistics.
 
 Follow along as I work through the complete curriculum. Each project folder will have detailed documentation, working code, and actual output from running the system.
 

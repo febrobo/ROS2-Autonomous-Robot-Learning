@@ -14,13 +14,14 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='febin',
-    maintainer_email='wilson.fe@northeastern.com',
+    maintainer_email='febin.wilson777@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'hello_node=my_robot_pkg.hello_node:main',
+            'gps_publisher = my_robot_pkg.gps_publisher:main',
         ],
     },
 )
